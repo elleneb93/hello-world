@@ -1,0 +1,8 @@
+Asteroid 1 position
+150.4 200.5
+Asteroid 1 velocity
+4.9 7.1
+Asteroid 2 position
+122.6 64.0
+Asteroid 2 velocity
+5.2 2.95
